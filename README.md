@@ -6,6 +6,7 @@ For English users: This page is the place to collect all my personal stories I'v
 
 Github page : https://freesoft.github.io/my-stories/
 
+More stories are Coming Soon&trade;
 
 * [한국회사에서의 기억들(4) — 병특 이후, 그리고 대학원?](https://medium.com/@wjung/한국회사에서의-기억들-4-병특-이후-그리고-대학원-33243f9027a)
 * [한국회사에서의 기억들(3) — Death March Project, VMC(1)](https://medium.com/@wjung/한국회사에서의-기억들-3-death-march-project-vmc-1-2de233a245c4)
