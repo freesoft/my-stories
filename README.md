@@ -1,5 +1,7 @@
-# my-stories
-개인적인 이야기를 적어놓은 medium 및 각종 사이트들의 링크를 모아두는 곳. Place to collect all my personal stories I've written. Mostly Korean language only.
+# My stories
+
+medium/blog 등을 포함하여 개인적인 이야기와 끄적인 글들을 다시 둘러보기 쉽게 모아둔 페이지. 
+This page is the place to collect all my personal stories I've written. Pretty much Korean language only.
 
 
 * [한국회사에서의 기억들(4) — 병특 이후, 그리고 대학원?](https://medium.com/@wjung/한국회사에서의-기억들-4-병특-이후-그리고-대학원-33243f9027a)
